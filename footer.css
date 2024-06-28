@@ -1,0 +1,37 @@
+* a{
+    color: rgb(17, 27, 36);
+margin: 0px;
+padding: 0px;
+}
+a:hover{
+    color: #bb8d0e;
+}
+#footer{
+    min-height: 380px;
+    /* width: 101.95%; */
+    background-color: #8fc8c87b;
+    text-align: center;
+color: rgb(23, 33, 42);
+/* padding-top: 40px; */
+/* margin: 0px 0.1rem; */
+border: 2px solid whitesmoke;
+margin-top: 5vw;
+ }
+ h5{
+     font-family: cursive;
+     font-style: inherit;
+     font-weight: 900;
+ }
+ 
+ 
+#card{
+    /* background-color:#8fc8c87b; */
+    color: rgb(23, 33, 42);
+   
+}
+ a{
+   text-decoration: none;
+ }
+ p{
+    color: rgb(23, 33, 42);
+ }
